@@ -1,4 +1,4 @@
-## Hi there 👋 I am Setim David
+## Hi there 👋 I am Setim David - Software and DevOps Engineer
 
 ---
 
