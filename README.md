@@ -1,17 +1,5 @@
 ## Hi there 👋 I am Setim David
 
-
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/sandeep-komal-pothu-ba4497283/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sandeepkomalp@gmail.com" target="blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</div>
-
 ---
 
 ### 🛠️ Languages and Tools
