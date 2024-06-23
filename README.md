@@ -6,7 +6,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/util/logos/google_cloud/google_cloud-ar21.svg" alt="Google Gloud" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Gloud" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" alt="AWS ECS" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/util/convert_to_png?svg=/logos/java/java-vertical.svg" alt="Java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/util/convert_to_png.html?svg=/logos/springio/springio-ar21.svg" alt="Spring" width="40" height="40"/>
